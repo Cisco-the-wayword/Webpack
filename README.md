@@ -135,8 +135,8 @@ Example: To build for production with parcel, use the folowing commands:
 
 👤 **Cisco**
 
-- GitHub: [@githubhandle](https://github.com/Cisco-the-wayword)
-- Twitter: [@twitterhandle](https://twitter.com/the_wayword1)
+- GitHub: [@Cisco-the-wayword](https://github.com/Cisco-the-wayword)
+- Twitter: [@the_wayword1](https://twitter.com/the_wayword1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/boluwatife-adegboyega-9397a81b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNGz7hXcRTTWAVNixcs9b%2FA%3D%3D)
 
 <!-- FUTURE FEATURES -->
@@ -179,6 +179,6 @@ We would like to thank [Microverse](https://www.microverse.org/go?utm_source=goo
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
